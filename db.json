@@ -1,0 +1,82 @@
+{
+
+    "products":[
+        {
+            "id":1 ,
+            "title":"3 Roses Natural Care 500g",
+            "price":"₹ 400.00",
+            "quantity":"500 g",        "image_url":"https://cdn.ratnadeep.online/product/thumbnail/3-Roses-Natural-Care-500G-1.jpg"
+
+        },
+        {
+            "id":2 ,
+            "title":"Aashirvaad Atta 5kg",
+            "price":" 298.00",
+            "quantity":"5 kg",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Aashirvaad%20Atta%205kg-1.jpg"
+
+        },
+        {
+            "id":3 ,
+            "title":"",
+            "price":"",
+            "quantity":"",
+            "image_url":""
+
+        },
+        {
+            "id":4 ,
+            "title":"Akhrot Magaj Walnut 500g",
+            "price":"₹ 735.00",
+            "quantity":"500 g",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Akhrot-Magaj-Walnut-500g-1.jpg"
+
+        },
+        {
+            "id":5 ,
+            "title":"B Natural Apple Juice 1L",
+            "price":"₹ 65.00",
+            "quantity":"1 ltr",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/B-Natural-Premium-Apple-1Ltr-1.jpg"
+
+        },
+        {
+            "id": 6,
+            "title":"B Natural Orange Juice 1L",
+            "price":"₹ 65.00",
+            "quantity":"1 ltr",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/B-Natural-Orange-Oomph-1000Ml-1.jpg"
+
+        },
+        {
+            "id":7,
+            "title":"Bagrry Crunchy Muesli Fruit & Nut Cranberries 750g",
+            "price":"₹ 444.00",
+            "quantity":"750 g",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Bagrry-Crunchy-Muesli-Fruit-&-Nut-Cranberries-750G-1.jpg"
+        },
+
+        {
+            "id":8,
+            "title":"Bru Coffee Gold Jar 100g",
+            "price":"₹ 330.00",
+            "quantity":"100 g",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Bru-Coffee-Gold-Jar-100G-1.jpg"
+        },
+        {
+            "id":9,
+            "title":"Basmati Rice 5kg",
+            "price":"Basmati Rice 5kg",
+            "quantity":"5 kg",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Basmati-Rice-5kg-1.jpg"
+        },
+        {
+            "id":10,
+            "title":"Britannia Nutri Choice Digestive Hi-Fibre 1Kg",
+            "price":"₹ 175.00",
+            "quantity":"1 kg",
+            "image_url":"https://cdn.ratnadeep.online/product/thumbnail/Britannia-Nutri-Choice-Digestive-Hi-Fibre1Kg-1.jpg"
+        }
+
+    ]
+}
